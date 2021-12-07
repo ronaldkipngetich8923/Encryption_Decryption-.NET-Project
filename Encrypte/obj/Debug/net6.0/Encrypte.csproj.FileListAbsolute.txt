@@ -1,0 +1,15 @@
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\bin\Debug\net6.0\Encrypte.exe
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\bin\Debug\net6.0\Encrypte.deps.json
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\bin\Debug\net6.0\Encrypte.runtimeconfig.json
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\bin\Debug\net6.0\Encrypte.dll
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\bin\Debug\net6.0\ref\Encrypte.dll
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\bin\Debug\net6.0\Encrypte.pdb
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\Encrypte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\Encrypte.AssemblyInfoInputs.cache
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\Encrypte.AssemblyInfo.cs
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\Encrypte.csproj.CoreCompileInputs.cache
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\Encrypte.dll
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\ref\Encrypte.dll
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\Encrypte.pdb
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\Encrypte.genruntimeconfig.cache
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\Encrypte\obj\Debug\net6.0\Encrypte.csproj.AssemblyReference.cache
