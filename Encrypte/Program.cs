@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+
 using Encrypte;
 
 Console.WriteLine("Hello!");
@@ -16,6 +17,6 @@ string option = Console.ReadLine();
 Console.WriteLine("Enter the word you wish to decrypte");
 string word = Console.ReadLine();
 
-var op = new Operation();
+Encrypte.Operation op = new Operation();
 op.doOperaton(option, word);
 

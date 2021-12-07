@@ -10,3 +10,5 @@ C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\DataLayer\obj\Deb
 C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\DataLayer\obj\Debug\net6.0\DataLayer.dll
 C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
 C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\DataLayer\bin\Debug\net6.0\DataLayer.runtimeconfig.json
+C:\Users\rohnn\Source\Repos\Encryption_Decryption-.NET-Project\DataLayer\obj\Debug\net6.0\DataLayer.genruntimeconfig.cache
