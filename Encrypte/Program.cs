@@ -23,14 +23,13 @@ if (option == "EN")
     {
         word = word.Insert(0, item);
     }
-    Console.WriteLine(word);
+    Console.WriteLine("Encrypted word is:" + word);
 }
 else if (option == "DE")
 {
     foreach (var item in chars)
     {
         word = word.Replace(item, string.Empty);
-
     }
     Console.WriteLine("Decrypted word is: " + word);
 }
