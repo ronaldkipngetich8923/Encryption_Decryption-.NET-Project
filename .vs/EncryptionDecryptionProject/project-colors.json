@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f8c5465-159d-416f-a308-40ddd46319c2": {
+      "ProjectGuid": "3f8c5465-159d-416f-a308-40ddd46319c2",
+      "DisplayName": "Encrypte",
+      "ColorIndex": 0
+    },
+    "4251fd30-01fb-465f-8c4c-173e6e2eed24": {
+      "ProjectGuid": "4251fd30-01fb-465f-8c4c-173e6e2eed24",
+      "DisplayName": "API",
+      "ColorIndex": 1
+    },
+    "456ddf02-b678-444d-81c1-1d28a2adb879": {
+      "ProjectGuid": "456ddf02-b678-444d-81c1-1d28a2adb879",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

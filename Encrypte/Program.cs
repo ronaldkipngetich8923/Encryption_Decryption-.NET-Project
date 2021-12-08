@@ -20,3 +20,4 @@ string word = Console.ReadLine();
 Encrypte.Operation op = new Operation();
 op.doOperaton(option, word);
 
+

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypte", "Encrypte\Encrypte.csproj", "{3F8C5465-159D-416F-A308-40DDD46319C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encrypte", "Encrypte\Encrypte.csproj", "{3F8C5465-159D-416F-A308-40DDD46319C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{456DDF02-B678-444D-81C1-1D28A2ADB879}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{456DDF02-B678-444D-81C1-1D28A2ADB879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{4251FD30-01FB-465F-8C4C-173E6E2EED24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{456DDF02-B678-444D-81C1-1D28A2ADB879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{456DDF02-B678-444D-81C1-1D28A2ADB879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{456DDF02-B678-444D-81C1-1D28A2ADB879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4251FD30-01FB-465F-8C4C-173E6E2EED24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4251FD30-01FB-465F-8C4C-173E6E2EED24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4251FD30-01FB-465F-8C4C-173E6E2EED24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4251FD30-01FB-465F-8C4C-173E6E2EED24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
